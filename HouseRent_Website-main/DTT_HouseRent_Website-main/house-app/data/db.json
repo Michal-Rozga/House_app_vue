@@ -1,0 +1,64 @@
+{
+  "houses": [
+    {
+      "id": 2,
+      "image": "https://intern-api.docker-dev.d-tt.nl/uploads/house1.jpg",
+      "price": 123,
+      "rooms": {
+        "bedrooms": 1,
+        "bathrooms": 1
+      },
+      "size": 500,
+      "description": "oui",
+      "location": {
+        "street": "street 20",
+        "city": "assas",
+        "zip": "asasdd"
+      },
+      "createdAt": "2020-05-07",
+      "constructionYear": 2000,
+      "hasGarage": false,
+      "madeByMe": false
+    },
+    {
+      "id": 3,
+      "image": "https://intern-api.docker-dev.d-tt.nl/uploads/house2.jpg",
+      "price": 969000,
+      "rooms": {
+        "bedrooms": 3,
+        "bathrooms": 1
+      },
+      "size": 153,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque earum doloribus, voluptas odio harum ipsum. Omnis, eos quibusdam delectus ullam natus perspiciatis, suscipit exercitationem aspernatur repellendus reprehenderit molestias fugit quasi. Consequuntur earum reprehenderit maiores non explicabo aliquam molestias commodi ad, obcaecati odit quibusdam voluptate odio autem voluptatibus nam! Eos quo odit consequuntur assumenda nobis quas vero reprehenderit accusantium voluptas explicabo.",
+      "location": {
+        "street": "Oud Heinstraat 23",
+        "city": "Amsterdam",
+        "zip": "1016 BV"
+      },
+      "createdAt": "2020-05-07",
+      "constructionYear": 2020,
+      "hasGarage": false,
+      "madeByMe": false
+    },
+    {
+      "id": 4,
+      "image": "https://intern-api.docker-dev.d-tt.nl/uploads/house3.jpg",
+      "price": 795000,
+      "rooms": {
+        "bedrooms": 2,
+        "bathrooms": 1
+      },
+      "size": 120,
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque earum doloribus, voluptas odio harum ipsum. Omnis, eos quibusdam delectus ullam natus perspiciatis, suscipit exercitationem aspernatur repellendus reprehenderit molestias fugit quasi. Consequuntur earum reprehenderit maiores non explicabo aliquam molestias commodi ad, obcaecati odit quibusdam voluptate odio autem voluptatibus nam! Eos quo odit consequuntur assumenda nobis quas vero reprehenderit accusantium voluptas explicabo.",
+      "location": {
+        "street": "Amsterdamseweg 23",
+        "city": "Amsterdam",
+        "zip": "1045 TK"
+      },
+      "createdAt": "2020-05-07",
+      "constructionYear": 2000,
+      "hasGarage": false,
+      "madeByMe": true
+    }
+  ]
+}
